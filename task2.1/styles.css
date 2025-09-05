@@ -1,0 +1,90 @@
+html body
+{
+    padding: 0;
+    margin: 0;
+}
+
+.greyed-background
+{
+    background-color: lightgrey;
+}
+
+.salad-background
+{
+    background-color: #C8FC98;
+}
+
+.red
+{
+    color: red;
+}
+
+.wide
+{
+    height: 100px;
+}
+
+.liquid
+{
+    display: flex;
+}
+
+#sidepanel
+{
+    width: 200px;
+}
+
+#sidepanel h3,p
+{
+    margin: 0;
+    padding: 0;
+}
+
+#main-content
+{
+    margin: 0;
+    margin-left: 1vw;
+}
+
+#main-content h3
+{
+    float: left;
+    margin: 0;
+    margin-right: 5px;
+    padding: 0;
+}
+
+#main-content p
+{
+    margin: 0;
+    padding: 0;
+}
+
+.full-width
+{
+    width: 100%;
+}
+
+.black-background
+{
+    background-color: black;
+}
+
+footer
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    height: 3vw;
+}
+
+.yellow
+{
+    color: yellow;
+}
+
+.line-height
+{
+    line-height: 1.5;
+}
